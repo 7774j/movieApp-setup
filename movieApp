@@ -1,16 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T23:48:12.541Z" agent="5.0 (Macintosh)" etag="oUJCsSKyxnD58J72r2I_" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T00:26:25.493Z" agent="5.0 (Macintosh)" etag="pQ0MdNP399BTd0y86H7s" version="14.6.10" type="github">
   <diagram id="ziAkcjdjy8YnDbwlSG6o" name="Page-1">
     <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="G1i4sk5jDH2ulqmz7hk7-1" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="130" y="200" width="620" height="380" as="geometry" />
+          <mxGeometry x="60" y="200" width="750" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="G1i4sk5jDH2ulqmz7hk7-2" value="HEADER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-5" target="G1i4sk5jDH2ulqmz7hk7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-5" value="TEAM FAVORITES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="25" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-6" target="G1i4sk5jDH2ulqmz7hk7-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-6" value="MOVIE TITLES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="175" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-7" target="G1i4sk5jDH2ulqmz7hk7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-7" value="BY REVIEW" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="315" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-8" target="G1i4sk5jDH2ulqmz7hk7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-8" value="&amp;nbsp;BY ACTORS" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="465" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-9" target="G1i4sk5jDH2ulqmz7hk7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-9" value="JANA&#39;S FAVORITES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="25" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-11" target="G1i4sk5jDH2ulqmz7hk7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-11" value="BEST REVIEWS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="315" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-13" value="AARON&#39;S FAVORITES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="25" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-14" value="MOVIES BY YEAR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="175" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-15" value="&lt;div&gt;WORST REVIEWS&lt;/div&gt;&lt;div&gt;RAZZIES&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="315" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-16" target="G1i4sk5jDH2ulqmz7hk7-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-16" value="SPECIFIC ACTORS" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="465" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-17" target="G1i4sk5jDH2ulqmz7hk7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-17" value="OSCAR AWARD WINNING MOVIES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="605" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-18" target="G1i4sk5jDH2ulqmz7hk7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-18" value="MOVIES BY GENRE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="175" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-19" target="G1i4sk5jDH2ulqmz7hk7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-19" value="BY BEST PICTURE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="605" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-20" value="BY BEST ACTOR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="605" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-21" value="TRAILERS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="465" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.858;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-22" target="G1i4sk5jDH2ulqmz7hk7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.408;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-22" target="G1i4sk5jDH2ulqmz7hk7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-22" target="G1i4sk5jDH2ulqmz7hk7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-22" target="G1i4sk5jDH2ulqmz7hk7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="G1i4sk5jDH2ulqmz7hk7-1" source="G1i4sk5jDH2ulqmz7hk7-22" target="G1i4sk5jDH2ulqmz7hk7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-22" value="SEARCH BY " style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#660033;" vertex="1" parent="G1i4sk5jDH2ulqmz7hk7-1">
+          <mxGeometry x="180" y="40" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-2" value="ROOT" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=east;gradientColor=#660033;" vertex="1" parent="1">
           <mxGeometry x="50" y="30" width="750" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G1i4sk5jDH2ulqmz7hk7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G1i4sk5jDH2ulqmz7hk7-3" value="T N T MOVIES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="110" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G1i4sk5jDH2ulqmz7hk7-4" value="FOOTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
